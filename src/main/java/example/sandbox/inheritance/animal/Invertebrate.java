@@ -1,4 +1,4 @@
 package example.sandbox.inheritance.animal;
 
-public class Invertabrate extends Animal {
+public class Invertebrate extends Animal {
 }
